@@ -1,0 +1,71 @@
+.root{
+
+    -fx-background-color:#f4f6f8;
+
+    -fx-font-family:"Arial";
+
+}
+
+.titulo{
+
+    -fx-font-size:22px;
+
+    -fx-font-weight:bold;
+
+    -fx-text-fill:#1f3c88;
+
+}
+
+.label{
+
+    -fx-font-size:13px;
+
+}
+
+.text-field{
+
+    -fx-pref-height:30px;
+
+}
+
+.combo-box{
+
+    -fx-pref-height:30px;
+
+}
+
+.button{
+
+    -fx-background-color:#1f77d0;
+
+    -fx-text-fill:white;
+
+    -fx-font-size:13px;
+
+    -fx-font-weight:bold;
+
+    -fx-background-radius:5;
+
+}
+
+.button:hover{
+
+    -fx-background-color:#145da0;
+
+}
+
+.check-box{
+
+    -fx-font-size:13px;
+
+}
+
+.mensaje{
+
+    -fx-font-size:13px;
+
+    -fx-text-fill:green;
+
+    -fx-font-weight:bold;
+
+}
