@@ -1,0 +1,2 @@
+001;juan peres;40212345678;8095551111;Dr. Pérez;Medicina General;2026-07-14;08:30;Dolor de cabeza;Cancelada
+002;kevin jackon;40212345679;8095552222;Dr. Rodríguez;Pediatría;2026-07-15;8:45;gripe;Atendida
